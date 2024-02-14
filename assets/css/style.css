@@ -81,15 +81,15 @@
     font-size: 15px;
 }
 
-
 #cart {
-    background: #f5f5f5;
-    box-shadow: 1px 1px 1px 1px #ccc;
-    border: 1px solid #ccc;
-    color: black;
-    font-size: 13px;
-    margin-top: 25px;
-    height: 180px;
+	background: #f5f5f5;
+	box-shadow: 1px 1px 1px 1px #ccc;
+	border: 1px solid #ccc;
+	color: black;
+	font-size: 13px;
+	margin-top: 25px;
+	height: 180px;
+	padding: 30px;
 }
 
 
@@ -250,7 +250,7 @@
 
 }
 
-.feature a li {
+.feature a {
     text-decoration: none;
     color: #000;
     font-size: 14px;
